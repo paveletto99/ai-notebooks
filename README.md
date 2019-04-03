@@ -1,2 +1,2 @@
 # ai-notebooks
-A place to collect our experience and 💡🧙
+A place to collect our experience, 💡 & 🧙
